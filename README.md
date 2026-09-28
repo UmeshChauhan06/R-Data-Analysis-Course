@@ -1,5 +1,3 @@
-# R-Data-Analysis-Course
-10-Day R Programming for Data Analysis – Notes, Practice Files and Projects
 # R Data Analysis Course
 
 A 10-Day R Programming course designed for Data Analysis students.
